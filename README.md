@@ -1,7 +1,7 @@
 # Ozodbek Kamoliddinov
 
 Frontend Dasturchi. Frontend dasturlashni 2021-yil yoz oylaridan boshlagan... Hozirda Java Scriptni chuqurroq va uning React kutubxonasini o'rganayotgan dasturchi 
-[TELEGRAM](https://t.me/Infinity.evaluation)
+[Telegram](https://t.me/Infinity_evaluation/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redi-frontend" alt="redi-frontend" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS JS, SASS, Bootstrap, React**
