@@ -3,11 +3,6 @@
 Frontend Dasturchi. Frontend dasturlashni 2021-yil yoz oylaridan boshlagan... Hozirda Java Scriptni chuqurroq va uning React kutubxonasini o'rganayotgan dasturchi
 
 [Telegram](https://t.me/Infinity_evaluation/)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redi-frontend" alt="redi-frontend" /></a> </p>
-
-- 🌱 I’m currently learning **HTML, CSS JS, SASS, Bootstrap, React**
-
-- 📫 How to reach me **infinity.evaluation06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
